@@ -1,4 +1,4 @@
-# Machine Learning for Business Analytics
+# Clay
 ![](cat.jpg)
 
 # Purpose
