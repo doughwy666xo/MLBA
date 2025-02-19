@@ -1,4 +1,5 @@
 # Machine Learning for Business Analytics
+![](cat.jpg)
 
 # Purpose
 
